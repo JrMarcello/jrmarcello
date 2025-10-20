@@ -1,5 +1,5 @@
 Hi there 👋
-I'm a Solution Architect/Backend Engineer working in João Pessoa, Brazil.
+I'm a Solution Architect/Backend Engineer working at João Pessoa, Brazil.
 
 BIO
 
