@@ -3,8 +3,8 @@ I'm a Solution Architect/Backend Engineer working in João Pessoa, Brazil.
 
 BIO
 
-    🏢 I'm currently working at Itaú Unibanco
-    ⚙️ I use daily: aws, .java, .js
-    📦 Knowledge: Nodejs, Java, Relationals/No-Relationals DBs, Microservices and etc...
-    🌱 Learning all about Well-Architecture
-    📫 Reach me: marcello.dudk@gmail.com
+    🏢 I'm currently #OpenToWork
+    ⚙️ I use daily: Design Systemsaws, Design Patterns, .js .py
+    📦 Knowledge: Design Systems, Nodejs, PHP, Python, Relationals/No-Relationals DBs, Microservices and etc...
+    🌱 Learning all about Well-Architecture, Design Patterns, Golang and AI 
+    📫 Reach me: marcello.dudk@gmail.com / +55 (83) 98831-7867
